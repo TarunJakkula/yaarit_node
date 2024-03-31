@@ -1,0 +1,32 @@
+{
+  "c6c34b4f-b401-4ddf-9786-ed31683aaec5": {
+    "username": "TarunJakkula",
+    "email": "mvsreccse017@mvsrec.edu.in",
+    "phno": "1000000000",
+    "password": "123456",
+    "year": "1",
+    "branch": "cse",
+    "plan": "1/2",
+    "PASSWORD_DURATION": 1698431359786
+  },
+  "824268b9-3be7-4407-baba-dee2fc1a8e9c": {
+    "username": "TarunJakkula",
+    "email": "mvsreccse017@mvsrec.edu.in",
+    "phno": "1000000000",
+    "password": "123456",
+    "year": "1",
+    "branch": "cse",
+    "plan": "1",
+    "PASSWORD_DURATION": 1698431647442
+  },
+  "49ed42d3-5c78-447c-9788-031f8fc6d000": {
+    "username": "DemoUser",
+    "email": "DemoUserMail@mvsrec.edu.in",
+    "phno": "1000000000",
+    "password": "demouser",
+    "year": "1",
+    "branch": "cse",
+    "plan": "1",
+    "PASSWORD_DURATION": 1698694150558
+  }
+}

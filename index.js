@@ -33,7 +33,7 @@ mongoose
   .connect(dbURL, { useNewUrlParser: true })
   .then((response) => {
     app.listen(port, () => {
-      console.log(`⚡️[server]: Server is running at http://localhost:${port}`);
+      console.log(`⚡️[server]: Server is running`);
     });
   })
   .catch((error) => {

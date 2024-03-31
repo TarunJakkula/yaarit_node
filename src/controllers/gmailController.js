@@ -114,14 +114,12 @@ async function verifyMail(req, res) {
     const mailOptions = {
       from: GMAIL_ID,
       to: email,
-      subject: ` 🎉 Congratulations you are now a part of website `,
+      subject: ` 🎉Email verified `,
       html: `
             <div style="border:2px solid black; padding:10px; width:50%; margin:auto;">
               <div style="width:100%;margin:auto;">
                 <h1>👋 ${username},</h1>
                   <p>😀 Your registration is successful.</p>
-                  <p>Regards,</p>
-                  <p>Rajesh</p>
               </div>
             </div>
           `,

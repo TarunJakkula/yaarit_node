@@ -119,8 +119,6 @@ const ChangePassword = async (req, res) => {
                         <div style="border:2px solid black; padding:10px; width:50%; margin:auto;">
                             <h1>Hi ${email},</h1>
                             <p>"Password Updated"</p>
-                            <p>Regards,</p>
-                            <p>Rajesh</p>
                         </div>
                     `,
       };

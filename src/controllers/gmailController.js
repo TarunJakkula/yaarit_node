@@ -66,6 +66,7 @@ async function sendMail(req, res) {
         await writeFilePromise(FILE_PATH, JSON.stringify(newData, null, 2));
         return res.send("Mail sent"); // Handle This In frontend
       } catch (error) {
+        console.log(error);
         return res.send("Error occured");
       }
     })
